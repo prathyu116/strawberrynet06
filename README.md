@@ -2,4 +2,4 @@
 team work
 
 
-live  https://strawaberrynet.netlify.app/home
+live  https://strawaberrynet.netlify.app
